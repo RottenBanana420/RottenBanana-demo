@@ -5,4 +5,4 @@ Author - Kusai Hajuri
 <br>
 Using this repository to learn the basics of Git and Github.
 <br>
-I'm currently studying in MIT World Peace University.
+I'm a student of the university - MIT World Peace University.
